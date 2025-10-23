@@ -1,4 +1,5 @@
-// using recursion 
+// https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+////////////////////////////////////////////--------------------------------------------------- using recursion 
 
 class Solution {
   public:
@@ -20,14 +21,7 @@ class Solution {
 };
 
 
-
-
-
-
-
-
-
-/////// mathod -2 using dp
+///////------------------------------------------------------------------------------------ mathod -2 using dp
 
 
 class Solution {
